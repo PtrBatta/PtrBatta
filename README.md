@@ -14,3 +14,6 @@
 12. git add .
 13. git commit -m "Background Color changed"
 14. git push --set-upstream origin console
+15. git remote add origin git@github.com:PtrBatta/PtrBatta.git
+    git branch -M main
+    git push -u origin main

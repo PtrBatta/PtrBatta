@@ -1,5 +1,5 @@
 window.addEventListener("load", () => {
-    alert("Oldal betöltődése kész.")
+    console.log("Az oldal betőltődött!")
     })
 
 const musicContainer = document.getElementById("music-container");
