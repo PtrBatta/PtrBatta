@@ -4,7 +4,7 @@
 3. git add .
 4. git commit -m "Readme+.gitignore added"
 5. git add .
-5. git commit -m "Eventlistener Onload added"
+5. git commit -m "Fixing an issue"
 6. git add .
 7. git commit -m "Changes removed, branch added"
 8. git branch console
